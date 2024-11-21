@@ -151,7 +151,6 @@ for (const [sayi, tekrar] of Object.entries(tekrarSayilari)) {
 
 
 
-/*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
 function sa() {
   console.log("Kodlar çalışıyor");
